@@ -30,6 +30,8 @@ while True:
      sym=b[x]['symbol']
      price=float(b[x]["price_KAI"])
      c[sym]=price
+
+
  
 #set old with present array values during start
  
@@ -64,4 +66,6 @@ while True:
  d=c
  
  time.sleep(120)
+
+# dfdh gfhjv ghjj
  
