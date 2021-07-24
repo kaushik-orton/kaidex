@@ -6,6 +6,8 @@ import telegram_send
 url="https://api.info.kaidex.io/api/tokens"
 d={}
 
+#ncnbskjmnxjks
+
 while True:
  
  #telegram_send.send(messages=['1'])
